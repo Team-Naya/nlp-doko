@@ -1,0 +1,1 @@
+This repository provides an opensourced NLP datebase for the Nepali language and contains almost 350k sentences gathered from news portals.
