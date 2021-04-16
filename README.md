@@ -1,2 +1,2 @@
 This repository provides an open-sourced NLP datebase for the Nepali language and contains almost 350k sentences gathered from news portals.
-For more information, please visit naya.com.np
+For more information on the data cleaning process, please visit https://naya.com.np/post/p1618602203yxihp.
